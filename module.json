@@ -1,0 +1,39 @@
+{
+  "id": "daggerheart-distance-ruler",
+  "title": "Daggerheart Distance Ruler",
+  "description": "A simple module that introduces labels for measuring distances based on the Daggerheart system's rules.",
+  "authors": [
+    {
+      "name": "Spawbreaker",
+      "url": "https://github.com/Spawbreaker"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "scripts": ["scripts/ruler.js"],
+  "styles": ["styles/ruler.css"],
+  "manifest": "",
+  "download": ""
+}
