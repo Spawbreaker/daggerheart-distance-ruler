@@ -34,6 +34,6 @@
   ],
   "scripts": ["scripts/ruler.js"],
   "styles": ["styles/ruler.css"],
-  "manifest": "",
-  "download": ""
+  "manifest": "https://raw.githubusercontent.com/Spawbreaker/daggerheart-distance-ruler/master/module.json",
+  "download": "https://github.com/Spawbreaker/daggerheart-distance-ruler/archive/refs/tags/1.0.0.zip"
 }
